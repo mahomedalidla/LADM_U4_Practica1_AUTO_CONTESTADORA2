@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "745415824382",
+    "project_id": "ladm-u3-firebase",
+    "storage_bucket": "ladm-u3-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745415824382:android:f3d7a7487d846f14d666af",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u3_ejercicio2_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745415824382-s671mg4smnc9l9rl2ddtk1kgl7bv668e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsXLHo5U6bJvAhXSkvYlAeMx4rLZ7WNAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745415824382-s671mg4smnc9l9rl2ddtk1kgl7bv668e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745415824382:android:ef1d43a76cf6eea6d666af",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u3_ejercicio3_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745415824382-s671mg4smnc9l9rl2ddtk1kgl7bv668e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsXLHo5U6bJvAhXSkvYlAeMx4rLZ7WNAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745415824382-s671mg4smnc9l9rl2ddtk1kgl7bv668e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745415824382:android:c2f7f55722de81b4d666af",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u3_practica1_app_kotlin_sqlite_con_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745415824382-s671mg4smnc9l9rl2ddtk1kgl7bv668e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsXLHo5U6bJvAhXSkvYlAeMx4rLZ7WNAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745415824382-s671mg4smnc9l9rl2ddtk1kgl7bv668e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745415824382:android:da96afefae4c6499d666af",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u3_practica1_auto_contestadora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745415824382-s671mg4smnc9l9rl2ddtk1kgl7bv668e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsXLHo5U6bJvAhXSkvYlAeMx4rLZ7WNAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745415824382-s671mg4smnc9l9rl2ddtk1kgl7bv668e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745415824382:android:7545cb2fab099bead666af",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u3_practica2_base_de_datos_firebase_cloud_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745415824382-s671mg4smnc9l9rl2ddtk1kgl7bv668e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsXLHo5U6bJvAhXSkvYlAeMx4rLZ7WNAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745415824382-s671mg4smnc9l9rl2ddtk1kgl7bv668e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
